@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://mlb-gh.github.io/CDLP-testing_v01/manifests/15-27119m-ACC-1266-75-60.json",
+	"@type": "sc:Manifest",
+	"label": "ACC 1266/75/60",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Photograph of a corridor in Ancaster Hall, 1966.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "The University of Nottingham",
+	"sequences": [
+		{
+			"@id": "http://c01ff546-12ad-45e9-90c5-9285bc4523f0",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://773467c8-16cb-4f0d-acbe-b048374ec83e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4612,
+					"width": 5800,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://64fe6c9b-3d98-40ff-ab8c-5ffbba29032f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4612,
+								"width": 5800
+							},
+							"on": "http://773467c8-16cb-4f0d-acbe-b048374ec83e"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
