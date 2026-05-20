@@ -7,5 +7,168 @@
             "All images loaded in mlb-gh/CDLP-testing_v01 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27123m/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "15-27123m"
+                ]
+            },
+            "height": 4584,
+            "width": 5826,
+            "items": [
+                {
+                    "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27123m/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27123m/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27123m/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 183,
+                                                "height": 144
+                                            },
+                                            {
+                                                "width": 365,
+                                                "height": 287
+                                            },
+                                            {
+                                                "width": 729,
+                                                "height": 573
+                                            },
+                                            {
+                                                "width": 1457,
+                                                "height": 1146
+                                            },
+                                            {
+                                                "width": 2913,
+                                                "height": 2292
+                                            },
+                                            {
+                                                "width": 5826,
+                                                "height": 4584
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5826,
+                                        "@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27123m",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4584,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27123m/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "15-27119m"
+                ]
+            },
+            "height": 4612,
+            "width": 5800,
+            "items": [
+                {
+                    "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 182,
+                                                "height": 145
+                                            },
+                                            {
+                                                "width": 363,
+                                                "height": 289
+                                            },
+                                            {
+                                                "width": 725,
+                                                "height": 577
+                                            },
+                                            {
+                                                "width": 1450,
+                                                "height": 1153
+                                            },
+                                            {
+                                                "width": 2900,
+                                                "height": 2306
+                                            },
+                                            {
+                                                "width": 5800,
+                                                "height": 4612
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5800,
+                                        "@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4612,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mlb-gh.github.io/CDLP-testing_v01/images/15-27119m/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
