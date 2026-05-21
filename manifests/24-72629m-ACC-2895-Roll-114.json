@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://mlb-gh.github.io/CDLP-testing_v01/manifests/24-72629m-ACC-2895-Roll-114.json",
+	"@type": "sc:Manifest",
+	"label": "ACC 2895 Roll 114",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://ba3a95fc-6bad-4952-936d-2ee987ae59c8",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://592bff38-098b-40e9-bed9-3ec30bd9b562",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5427,
+					"width": 8000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://586d9367-5c62-4f72-8cc0-b2fcecd451e8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72629m_8000px/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72629m_8000px",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5427,
+								"width": 8000
+							},
+							"on": "http://592bff38-098b-40e9-bed9-3ec30bd9b562"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
