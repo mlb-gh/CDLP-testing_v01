@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://78b50cda-45af-4458-9983-87f857587f79",
+	"@id": "https://mlb-gh.github.io/CDLP-testing_v01/manifests/15-27125m-ACC-1266-75-65.json",
 	"@type": "sc:Manifest",
 	"label": "ACC 1266/75/65",
 	"metadata": [],
