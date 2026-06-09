@@ -576,6 +576,87 @@
             ]
         },
         {
+            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "24-72626m_9000px"
+                ]
+            },
+            "height": 6075,
+            "width": 9000,
+            "items": [
+                {
+                    "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 282,
+                                                "height": 190
+                                            },
+                                            {
+                                                "width": 563,
+                                                "height": 380
+                                            },
+                                            {
+                                                "width": 1125,
+                                                "height": 760
+                                            },
+                                            {
+                                                "width": 2250,
+                                                "height": 1519
+                                            },
+                                            {
+                                                "width": 4500,
+                                                "height": 3038
+                                            },
+                                            {
+                                                "width": 9000,
+                                                "height": 6075
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 9000,
+                                        "@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6075,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72629m_8000px/canvas/",
             "type": "Canvas",
             "label": {
@@ -657,26 +738,26 @@
             ]
         },
         {
-            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/canvas/",
+            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "24-72626m_9000px"
+                    "24-72175p_4000px"
                 ]
             },
-            "height": 6075,
-            "width": 9000,
+            "height": 4000,
+            "width": 3544,
             "items": [
                 {
-                    "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/annotation/AnnoPage",
+                    "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/annotation/",
+                            "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/full/full/0/default.jpg",
+                                "id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -697,41 +778,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 282,
-                                                "height": 190
+                                                "width": 111,
+                                                "height": 125
                                             },
                                             {
-                                                "width": 563,
-                                                "height": 380
+                                                "width": 222,
+                                                "height": 250
                                             },
                                             {
-                                                "width": 1125,
-                                                "height": 760
+                                                "width": 443,
+                                                "height": 500
                                             },
                                             {
-                                                "width": 2250,
-                                                "height": 1519
+                                                "width": 886,
+                                                "height": 1000
                                             },
                                             {
-                                                "width": 4500,
-                                                "height": 3038
+                                                "width": 1772,
+                                                "height": 2000
                                             },
                                             {
-                                                "width": 9000,
-                                                "height": 6075
+                                                "width": 3544,
+                                                "height": 4000
                                             }
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 9000,
-                                        "@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px",
+                                        "width": 3544,
+                                        "@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px",
                                         "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 6075,
+                                        "height": 4000,
                                         "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72626m_9000px/canvas/"
+                            "target": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px/canvas/"
                         }
                     ]
                 }
