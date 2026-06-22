@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://c72a7405-fc6b-4c0a-b4ef-42d7fd9f8577",
+	"@type": "sc:Manifest",
+	"label": "LABEL",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://ec63fe78-ada4-4d7f-bc88-f85a3a9a8555",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://86ef39e2-3fcd-4901-9db3-fe0325bfdc0f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4000,
+					"width": 3544,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b98ff5c8-e926-4a5f-ad9f-bd4e670c460f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4000,
+								"width": 3544
+							},
+							"on": "http://86ef39e2-3fcd-4901-9db3-fe0325bfdc0f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
