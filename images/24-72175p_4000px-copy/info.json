@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 111,
+    "height" : 125
+  }, {
+    "width" : 222,
+    "height" : 250
+  }, {
+    "width" : 443,
+    "height" : 500
+  }, {
+    "width" : 886,
+    "height" : 1000
+  }, {
+    "width" : 1772,
+    "height" : 2000
+  }, {
+    "width" : 3544,
+    "height" : 4000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3544,
+  "@id" : "https://mlb-gh.github.io/CDLP-testing_v01/images/24-72175p_4000px-copy",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4000
+}
