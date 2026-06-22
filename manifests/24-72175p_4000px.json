@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://c72a7405-fc6b-4c0a-b4ef-42d7fd9f8577",
+	"@id": "https://mlb-gh.github.io/CDLP-testing_v01/manifests/24-72175p_4000px.json",
 	"@type": "sc:Manifest",
 	"label": "LABEL",
 	"metadata": [],
