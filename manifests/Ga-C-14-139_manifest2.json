@@ -1,0 +1,205 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://mlb-gh.github.io/CDLP-testing_v01/manifests/Ga-C-14-139_manifest2.json",
+	"@type": "sc:Manifest",
+	"label": "Ga-C-14-139",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://834dd98d-6f5f-403a-a226-cf70e4ef9511",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://0275238b-741a-4b36-ac3c-d36316640f92",
+					"@type": "sc:Canvas",
+					"label": "Ga-C-14-139_p04",
+					"height": 5000,
+					"width": 3461,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ec1b905a-cfe4-406a-803b-30bc527e0019",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p04/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p04",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5000,
+								"width": 3461
+							},
+							"on": "http://0275238b-741a-4b36-ac3c-d36316640f92"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://981b7197-2ad3-46e5-9aa8-2be6f635f8ac",
+					"@type": "sc:Canvas",
+					"label": "Ga-C-14-139_p08",
+					"height": 5000,
+					"width": 3447,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f7b09f6c-fc50-421c-b47c-1fcfd257eee0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p08/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p08",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5000,
+								"width": 3447
+							},
+							"on": "http://981b7197-2ad3-46e5-9aa8-2be6f635f8ac"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://38845cec-b861-4ca9-b526-c7d5cd86104c",
+					"@type": "sc:Canvas",
+					"label": "Ga-C-14-139_p11",
+					"height": 5000,
+					"width": 3453,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a89877c5-359c-42a7-9ed3-84f3d0c1e969",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p11/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p11",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5000,
+								"width": 3453
+							},
+							"on": "http://38845cec-b861-4ca9-b526-c7d5cd86104c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7a5391ff-a9bc-4df1-9bcd-6203be033ebf",
+					"@type": "sc:Canvas",
+					"label": "Ga-C-14-139_p13",
+					"height": 5000,
+					"width": 3463,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bc099140-9c66-4259-aee8-28607ae14db9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p13/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p13",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5000,
+								"width": 3463
+							},
+							"on": "http://7a5391ff-a9bc-4df1-9bcd-6203be033ebf"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d35b4dd0-c068-450c-bdc2-916b4a944746",
+					"@type": "sc:Canvas",
+					"label": "Ga-C-14-139_p15",
+					"height": 5000,
+					"width": 3416,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://acd659c0-12d1-49ee-844b-6e05713d5df3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p15/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p15",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5000,
+								"width": 3416
+							},
+							"on": "http://d35b4dd0-c068-450c-bdc2-916b4a944746"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://80baadb1-dbed-42fb-a7a9-790ea25b2934",
+					"@type": "sc:Canvas",
+					"label": "Ga-C-14-139_p21",
+					"height": 5000,
+					"width": 3418,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://833efc93-f575-40f6-bc2b-1a5fb96fb231",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p21/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/23-67352m_Ga-C-14-139_p21",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5000,
+								"width": 3418
+							},
+							"on": "http://80baadb1-dbed-42fb-a7a9-790ea25b2934"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right"
+}
