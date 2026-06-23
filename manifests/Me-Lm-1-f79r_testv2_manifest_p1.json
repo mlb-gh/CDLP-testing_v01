@@ -41,7 +41,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/Me-Lm-1-f79r_testv2",
+									"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/Me-Lm-1-f79r_testv2/240,460,1400,1200/700,600/0/default",
 									"profile": "http://iiif.io/api/image/2/level0.json"
 								},
 								"height": 5000,
