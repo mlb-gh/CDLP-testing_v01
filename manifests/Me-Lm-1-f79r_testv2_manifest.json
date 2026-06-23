@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://b09f58c0-b914-4548-9992-5fbefd0d1c13",
+	"@id": "https://mlb-gh.github.io/CDLP-testing_v01/manifests/Me-Lm-1-f79r_testv2_manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Me-Lm-1-f79r",
 	"metadata": [],
