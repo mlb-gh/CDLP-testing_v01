@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://23ae52d8-d189-4163-981b-b86d02e8c7e7",
+	"@id": "https://mlb-gh.github.io/CDLP-testing_v01/manifests/Ga-C-14-139_manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Ga-C-14-139",
 	"metadata": [],
