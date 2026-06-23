@@ -36,7 +36,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://mlb-gh.github.io/IIIF_test_v2/images/24-70846m_Me-Lm-1-f79r/240,460,1400,1200/700,600/0/default.jpg",
+								"@id": "https://mlb-gh.github.io/CDLP-testing_v01/images/Me-Lm-1-f79r_testv2/240,460,1400,1200/700,600/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
